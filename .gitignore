@@ -1,0 +1,12 @@
+# XAMPP installer (OS-specific, too large for git)
+*.run
+
+# Arduino build artifacts
+*.elf
+*.bin
+*.hex
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
